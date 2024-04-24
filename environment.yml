@@ -11,7 +11,7 @@ dependencies:
   - torchvision==0.14.1
   - pandas==1.5.3
   - scikit-learn==1.2.1
-  - tqdm==4.65.0
+  - tqdm>=4.65.0
   - Cython==0.29.33
   - matplotlib==3.7.0
   - numpy==1.24.2
